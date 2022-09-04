@@ -1,0 +1,328 @@
+{
+  "images": [
+    {
+      "file_name": "Screenshot from 2022-08-02 21-42-46.png",
+      "height": 401,
+      "width": 640,
+      "id": "Screenshot from 2022-08-02 21-42-46"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-44-22.png",
+      "height": 403,
+      "width": 640,
+      "id": "Screenshot from 2022-08-02 21-44-22"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-40-23.png",
+      "height": 406,
+      "width": 643,
+      "id": "Screenshot from 2022-08-02 21-40-23"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-38-22.png",
+      "height": 402,
+      "width": 641,
+      "id": "Screenshot from 2022-08-02 21-38-22"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-39-16.png",
+      "height": 401,
+      "width": 640,
+      "id": "Screenshot from 2022-08-02 21-39-16"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-40-43.png",
+      "height": 404,
+      "width": 637,
+      "id": "Screenshot from 2022-08-02 21-40-43"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-38-53.png",
+      "height": 403,
+      "width": 640,
+      "id": "Screenshot from 2022-08-02 21-38-53"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-37-49.png",
+      "height": 403,
+      "width": 643,
+      "id": "Screenshot from 2022-08-02 21-37-49"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-37-13.png",
+      "height": 405,
+      "width": 640,
+      "id": "Screenshot from 2022-08-02 21-37-13"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-43-25.png",
+      "height": 402,
+      "width": 642,
+      "id": "Screenshot from 2022-08-02 21-43-25"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-45-15.png",
+      "height": 406,
+      "width": 639,
+      "id": "Screenshot from 2022-08-02 21-45-15"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-45-25.png",
+      "height": 404,
+      "width": 644,
+      "id": "Screenshot from 2022-08-02 21-45-25"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-37-23.png",
+      "height": 405,
+      "width": 643,
+      "id": "Screenshot from 2022-08-02 21-37-23"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-43-03.png",
+      "height": 400,
+      "width": 639,
+      "id": "Screenshot from 2022-08-02 21-43-03"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-39-47.png",
+      "height": 400,
+      "width": 641,
+      "id": "Screenshot from 2022-08-02 21-39-47"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-44-59.png",
+      "height": 400,
+      "width": 639,
+      "id": "Screenshot from 2022-08-02 21-44-59"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-41-09.png",
+      "height": 403,
+      "width": 644,
+      "id": "Screenshot from 2022-08-02 21-41-09"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-40-04.png",
+      "height": 403,
+      "width": 646,
+      "id": "Screenshot from 2022-08-02 21-40-04"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-41-25.png",
+      "height": 402,
+      "width": 643,
+      "id": "Screenshot from 2022-08-02 21-41-25"
+    },
+    {
+      "file_name": "Screenshot from 2022-08-02 21-44-41.png",
+      "height": 402,
+      "width": 640,
+      "id": "Screenshot from 2022-08-02 21-44-41"
+    }
+  ],
+  "type": "instances",
+  "annotations": [
+    {
+      "area": 8176,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-42-46",
+      "bbox": [171, 167, 56, 146],
+      "category_id": 1,
+      "id": 1,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 6726,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-44-22",
+      "bbox": [508, 180, 57, 118],
+      "category_id": 1,
+      "id": 2,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 17017,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-40-23",
+      "bbox": [135, 156, 77, 221],
+      "category_id": 1,
+      "id": 3,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 27071,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-38-22",
+      "bbox": [140, 147, 107, 253],
+      "category_id": 1,
+      "id": 4,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 8008,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-39-16",
+      "bbox": [359, 168, 52, 154],
+      "category_id": 1,
+      "id": 5,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 7236,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-40-43",
+      "bbox": [192, 174, 54, 134],
+      "category_id": 1,
+      "id": 6,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 21538,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-38-53",
+      "bbox": [450, 146, 89, 242],
+      "category_id": 1,
+      "id": 7,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 6943,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-37-49",
+      "bbox": [336, 168, 53, 131],
+      "category_id": 1,
+      "id": 8,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 10304,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-37-13",
+      "bbox": [163, 158, 64, 161],
+      "category_id": 1,
+      "id": 9,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 21182,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-43-25",
+      "bbox": [402, 151, 89, 238],
+      "category_id": 1,
+      "id": 10,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 11993,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-45-15",
+      "bbox": [176, 164, 67, 179],
+      "category_id": 1,
+      "id": 11,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 14924,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-45-25",
+      "bbox": [166, 159, 82, 182],
+      "category_id": 1,
+      "id": 12,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 7840,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-37-23",
+      "bbox": [175, 169, 49, 160],
+      "category_id": 1,
+      "id": 13,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 31356,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-43-03",
+      "bbox": [128, 132, 117, 268],
+      "category_id": 1,
+      "id": 14,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 6272,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-39-47",
+      "bbox": [189, 172, 49, 128],
+      "category_id": 1,
+      "id": 15,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 12040,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-44-59",
+      "bbox": [387, 165, 70, 172],
+      "category_id": 1,
+      "id": 16,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 23571,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-41-09",
+      "bbox": [410, 153, 97, 243],
+      "category_id": 1,
+      "id": 17,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 6350,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-40-04",
+      "bbox": [191, 175, 50, 127],
+      "category_id": 1,
+      "id": 18,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 17472,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-41-25",
+      "bbox": [190, 156, 84, 208],
+      "category_id": 1,
+      "id": 19,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 16281,
+      "iscrowd": 0,
+      "image_id": "Screenshot from 2022-08-02 21-44-41",
+      "bbox": [444, 160, 81, 201],
+      "category_id": 1,
+      "id": 20,
+      "ignore": 0,
+      "segmentation": []
+    }
+  ],
+  "categories": [{ "supercategory": "none", "id": 1, "name": "enemy" }]
+}

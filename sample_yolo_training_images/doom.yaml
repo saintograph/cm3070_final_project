@@ -1,0 +1,12 @@
+path: ./demon
+train: train
+val: val
+
+nc: 18
+
+names: [
+  'dog','person','cat','tv','car','meatballs','marinara sauce',
+  'tomato soup','chicken noodle soup',
+  'french onion soup','chicken breast','ribs','pulled pork',
+  'hamburger','cavity', 'demon_01', 'demon_02', 'demon_03'
+]

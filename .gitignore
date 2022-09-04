@@ -1,0 +1,5 @@
+weights/*.zip
+venv
+report/venv
+__pycache__
+_vizdoom
